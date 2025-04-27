@@ -35,4 +35,3 @@ I included logic in the BMI calculation model to return specific color and advic
 ## Contact
 For more information, feel free to reach out:  
 - **Email**: [aranfononi@gmail.com](mailto:aranfononi@gmail.com)  
-- **LinkedIn**: [Aran Fononi](https://www.linkedin.com/in/aran-fononi-18182b265)
